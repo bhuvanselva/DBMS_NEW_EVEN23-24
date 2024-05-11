@@ -1,6 +1,6 @@
 # EX.NO 3 Data Manipulation Language (DML) Commands and built in functions in SQL
 ### DATE: 28.02.2024
-#### REGISTER NUMBER: 212222040117
+#### REGISTER NUMBER: 212222220008
 ## AIM:
 To Study and write DML Commands for given query.
 ## THEORY
