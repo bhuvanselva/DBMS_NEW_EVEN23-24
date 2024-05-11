@@ -1,6 +1,6 @@
 # EX.NO 6 TYPES OF JOINS in SQL
-### DATE :
-### REGISTER NUMBER:212222220008 
+### DATE : 03.04.2024
+### REGISTER NUMBER: 212222040117 
 ## AIM:
  To study and implement different types of joins.
 # THEORY
