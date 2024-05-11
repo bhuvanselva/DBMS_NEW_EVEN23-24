@@ -145,5 +145,6 @@ drop view v1;
 ![image](https://github.com/UmaRani-Github/DBMS_NEW_EVEN23-24/assets/144427076/c9803a3f-0708-438b-a958-f626d748339e)
 SELECT * FROM v1;
 ![image](https://github.com/UmaRani-Github/DBMS_NEW_EVEN23-24/assets/144427076/fcc076ad-b913-4773-a458-adcb7fc51d19)
+```
 ### RESULT :
 Thus the sub queries and views are executed.
