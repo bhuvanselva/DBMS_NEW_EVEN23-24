@@ -1,6 +1,6 @@
 # EXP NO 2: DATA DEFINITION LANGUAGE COMMANDS AND ITS CONSTRAINTS
-### DATE : 
-### REGISTER NUMBER:212222220008
+### DATE : 21.02.2024
+### REGISTER NUMBER:212222040117
 ## AIM:
  To study and write DDL commands and different types of constraints.
 ## THEORY
